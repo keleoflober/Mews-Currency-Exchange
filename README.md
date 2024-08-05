@@ -1,9 +1,9 @@
 # Exchange Rate Reader - CNB   for Mews
 
-This project extracts the file from CNB (https://www.cnb.cz/en/financial-markets/foreign-exchange-market/central-bank-exchange-rate-fixing/central-bank-exchange-rate-fixing/daily.txt) to process inside Salesforce Instance. updating currencies daily, showing the rates at home page for user knowledge. 
+This project extracts the file [Daily.txt](https://www.cnb.cz/en/financial-markets/foreign-exchange-market/central-bank-exchange-rate-fixing/central-bank-exchange-rate-fixing/daily.txt) from CNB to process inside Salesforce Instance. updating currencies daily, showing the rates at home page for user knowledge. 
 
-Warning (this package requires Multi Currency Enabled. and once deployed can't be rolled back.)
- 
+Warning (this package requires Multi Currency Enabled. and once deployed can't be rolled back.) <br>
+Project on Github: [Exchange Rate Reader](https://github.com/keleoflober/Mews-Currency-Exchange/tree/master)
 
 ## Table of Content
 
